@@ -1,0 +1,59 @@
+{
+  "type": "321",
+  "typeName": "321系",
+  "company": "jr-west",
+  "companyName": "JR西日本",
+  "affiliation": "akashi",
+  "affiliationName": "明石",
+  "number": "D29",
+  "formation": {
+    "direction": "←加古川，篠山口　　　草津，木津→",
+    "cars": [
+      {
+        "type": "クモハ320",
+        "number": "29"
+      },
+      {
+        "type": "モハ321",
+        "number": "58"
+      },
+      {
+        "type": "サハ321",
+        "number": "29"
+      },
+      {
+        "type": "モハ320",
+        "number": "58"
+      },
+      {
+        "type": "モハ321",
+        "number": "57"
+      },
+      {
+        "type": "モハ320",
+        "number": "57"
+      },
+      {
+        "type": "クモハ321",
+        "number": "29"
+      }
+    ]
+  },
+  "history": [
+    {
+      "event": "明石新製配置",
+      "date": "2006年6月29日",
+      "note": "（近車）"
+    }
+  ],
+  "photos": [
+    {
+      "src": "image/321/D29/1.webp",
+      "date": "2026年8月6日",
+      "trainNumber": "9232C",
+      "destination": "普通 草津行き",
+      "location": "南草津",
+      "note": "びわ湖大花火大会に伴うC電琵琶湖線延長運転"
+    }
+  ]
+}
