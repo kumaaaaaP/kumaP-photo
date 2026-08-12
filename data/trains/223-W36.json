@@ -50,5 +50,14 @@
       "note": "（近車）"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "src": "image/223/W36/1.webp",
+      "date": "2026年8月6日",
+      "trainNumber": "3495M",
+      "destination": "新快速 播州赤穂行き",
+      "location": "南草津〜瀬田",
+      "note": ""
+    }
+  ]
 }
