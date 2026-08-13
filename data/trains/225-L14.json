@@ -42,5 +42,14 @@
       "note": "（川車）"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "src": "image/225/L14/1.webp",
+      "date": "2026年8月6日",
+      "trainNumber": "803T",
+      "destination": "普通 網干行き",
+      "location": "南草津〜瀬田",
+      "note": ""
+    }
+  ]
 }
