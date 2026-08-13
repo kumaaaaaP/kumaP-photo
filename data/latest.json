@@ -1,5 +1,13 @@
 [
   {
+    "src": "image/225/I11/1.webp",
+    "caption": "225系I11編成",
+    "type": "225",
+    "number": "I11",
+    "company": "jr-west",
+    "date": "2026-08-13"
+  },
+  {
     "src": "image/223/W5/1.webp",
     "caption": "223系W5編成",
     "type": "223",
@@ -389,14 +397,6 @@
     "type": "EF66",
     "number": "130",
     "company": "jr-freight",
-    "date": "2026-07-26"
-  },
-  {
-    "src": "image/223/R204/1.webp",
-    "caption": "223系R204編成",
-    "type": "223",
-    "number": "R204",
-    "company": "jr-west",
     "date": "2026-07-26"
   }
 ]
