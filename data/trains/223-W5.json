@@ -55,5 +55,14 @@
       "note": ""
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "src": "image/223/W5/1.webp",
+      "date": "2026年8月6日",
+      "trainNumber": "807T",
+      "destination": "普通 網干行き",
+      "location": "南草津〜瀬田",
+      "note": ""
+    }
+  ]
 }
