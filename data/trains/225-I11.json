@@ -1,0 +1,54 @@
+{
+  "type": "225",
+  "typeName": "225系",
+  "company": "jr-west",
+  "companyName": "JR西日本",
+  "affiliation": "aboshi",
+  "affiliationName": "網干",
+  "number": "I11",
+  "formation": {
+    "direction": "←上郡，播州赤穂　　　長浜，永原，柘植→",
+    "cars": [
+      {
+        "type": "クモハ224",
+        "number": "107"
+      },
+      {
+        "type": "モハ225",
+        "number": "411"
+      },
+      {
+        "type": "モハ224",
+        "number": "119"
+      },
+      {
+        "type": "モハ224",
+        "number": "118"
+      },
+      {
+        "type": "モハ225",
+        "number": "610"
+      },
+      {
+        "type": "モハ224",
+        "number": "117"
+      },
+      {
+        "type": "モハ224",
+        "number": "116"
+      },
+      {
+        "type": "クモハ225",
+        "number": "107"
+      }
+    ]
+  },
+  "history": [
+    {
+      "event": "網干新製配置",
+      "date": "2020年9月11日",
+      "note": "（川重）"
+    }
+  ],
+  "photos": []
+}
